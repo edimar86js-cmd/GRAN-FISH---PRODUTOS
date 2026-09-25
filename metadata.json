@@ -1,0 +1,6 @@
+{
+  "name": "Gran Fish - Base de Produtos",
+  "description": "Base de produtos da Gran Fish Pescados com seleção de itens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
